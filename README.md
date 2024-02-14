@@ -6,6 +6,7 @@ Applying the same concept the goal of the puzzle is to find a path for the KEY f
 
 This project is a JavaScript-based implementation of the Rat in a Maze problem using the RECURSION and BACKTRACKING algorithm. The solution is visualized on a website using JavaScript and CSS.
 
+## How to play
 ```sh
 * Either the arrow keys or WASD tilt the board.
 * Maneuver the ball to the fancy green circle emitting particles to win
